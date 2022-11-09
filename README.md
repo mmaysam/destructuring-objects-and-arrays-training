@@ -1,0 +1,1 @@
+# destructuring-objects-and-arrays-training
